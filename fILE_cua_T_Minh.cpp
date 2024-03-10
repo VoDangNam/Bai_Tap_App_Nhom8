@@ -1,3 +1,5 @@
+#include <iostream>
+using namespace std;
 
 bool kiemTraMa(string s)
 {
@@ -770,3 +772,7 @@ while(true)
 }   
 }
 
+int main()
+    {
+    Quanlyquancafe();
+}
